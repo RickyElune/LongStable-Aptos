@@ -3,7 +3,7 @@
   "symbol": "USDC",
   "decimals": 6,
   "iconUri": "https://circle.com/usdc-icon",
-  "projectUri": "https://circle.com/usdc",
+  "projectUri": "https://github.com/RickyElune/LongStable-Aptos",
 
   "admin": "0x0000000000000000000000000000000000000000000000000000000000000000",
   "blocklister": "0x0000000000000000000000000000000000000000000000000000000000000000",
