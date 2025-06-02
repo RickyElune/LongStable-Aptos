@@ -77,11 +77,11 @@ describe("validateStablecoinState", () => {
       await generateKeypairs(7, false);
 
     tokenConfig = {
-      name: "USDC",
-      symbol: "USDC",
+      name: "CNHL",
+      symbol: "CNHL",
       decimals: 6,
-      iconUri: "https://circle.com/usdc-icon",
-      projectUri: "https://circle.com/usdc",
+      iconUri: "https://raw.githubusercontent.com/RickyElune/LongStable-Aptos/refs/heads/master/static/LongStable.png",
+      projectUri: "https://github.com/RickyElune/LongStable-Aptos",
 
       admin: admin.accountAddress.toString(),
       blocklister: blocklister.accountAddress.toString(),

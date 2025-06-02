@@ -82,7 +82,7 @@ To test the contracts on a localnet:
    [!NOTE]
 
    - The private key can be found inside `.aptos/keys/deployer.key`.
-   - The deployment uses default configurations inside "./scripts/typescript/resources/default_token.json". For a real deployment, please make a copy of `scripts/typescript/resources/usdc_deploy_template.json` and fill in all settings.
+   - The deployment uses default configurations inside "./scripts/typescript/resources/default_token.json". For a real deployment, please make a copy of `scripts/typescript/resources/cnhl_deploy_template.json` and fill in all settings.
 
 4. [Optional] Upgrade the `stablecoin` packages
 
@@ -121,7 +121,7 @@ To test the contracts on a localnet:
 2. Create token configuration by copying existing template.
 
    ```sh
-   cp scripts/typescript/resources/usdc_deploy_template.json scripts/typescript/resources/<CONFIG_FILE_NAME>
+   cp scripts/typescript/resources/cnhl_deploy_template.json scripts/typescript/resources/<CONFIG_FILE_NAME>
    ```
 
    Fill out all configuration parameters.
