@@ -1,10 +1,10 @@
 {
   "name": "stablecoin-aptos",
   "version": "1.0.0",
-  "description": "Circle's Stablecoin Smart Contracts on Aptos blockchain",
+  "description": "Long's Stablecoin Smart Contracts on Aptos blockchain",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/circlefin/stablecoin-aptos.git"
+    "url": "git+https://github.com/RickyElune/LongStable-Aptos"
   },
   "scripts": {
     "format": "prettier --write .",
